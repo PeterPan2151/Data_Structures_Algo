@@ -1,0 +1,43 @@
+Array is a continuos block of memory stored in our computer.
+We can store any data type.
+
+*They are a FIXED data Structure.
+*Every thing is definded by their index positions.
+
+Fecthing values is CONSTANT TIME O(1).
+
+
+TIME COMPLEXITY
+Accessing: O(1)
+Insert: Best Case - O(1), Worst case - O(n)
+Delete: Best Case - O(1), Worst case - O(n)
+Tranverse: O(n)
+Search: Linear - O(n), Binary - O(logn)
+Update:O(1)
+
+
+Benefits:
+Random accessing O(1)
+Cache friendly
+Ease of sorting
+Implements other D.S
+
+Limitation:
+Fixed size
+O(n) - insert, Delete
+
+
+When to use arrays
+1. Implement other D.S.
+2. When we see sache implementation
+3. Graph or tree problems
+4. Mathematical computions
+5. Coding patterns
+
+
+
+Multidimensaional arrays
+[
+    [x, x, x],
+    [x, x, x]
+]
